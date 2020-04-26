@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>528641393636-8ddh5ramnja7bgb0vevgfojfivnn03b6.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.528641393636-8ddh5ramnja7bgb0vevgfojfivnn03b6</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDAXx8unDMRJtldxccWkp8U6kOynRlRBjY</string>
+	<key>GCM_SENDER_ID</key>
+	<string>528641393636</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.arjun.Silicon-Valley-Hacks</string>
+	<key>PROJECT_ID</key>
+	<string>silicon-valley-hacks</string>
+	<key>STORAGE_BUCKET</key>
+	<string>silicon-valley-hacks.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:528641393636:ios:cc3402c1be31dd37a3fdf1</string>
+	<key>DATABASE_URL</key>
+	<string>https://silicon-valley-hacks.firebaseio.com</string>
+</dict>
+</plist>
